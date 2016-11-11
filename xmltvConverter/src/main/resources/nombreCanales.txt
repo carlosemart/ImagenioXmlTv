@@ -1,0 +1,142 @@
+LA 1:La 1 HD
+LA 2:La 2
+Antena 3:Antena 3 HD
+Cuatro:Cuatro HD
+Telecinco:Tele 5 HD
+La Sexta:laSexta HD
+#0:#0 HD
+La Otra:La Otra
+C+ Series:C+ Series HD
+C+ Series Xtra:C+ Series Xtra HD
+Fox:FOX HD
+AXN:AXN HD
+TNT:TNT HD
+Comedy Central:Comedy Central HD
+Calle 13:Calle 13HD
+COSMO:COSMO HD
+AMC:AMC HD
+Fox Life:FOX life HD
+AXN White:AXN W. HD
+SYFY:SyFyHD
+Non Stop People:Non Stop People HD
+MTV ESPAÑA:MTV España
+Factoría de Ficción:FDF
+Neox:Neox
+Atreseries:Atreseries HD
+C+ Estrenos:C+ Estrenos HD
+C+ Xtra:C+ Xtra HD
+C+ Acción:C+ Acción HD
+C+ Comedia:C+ Comedia HD
+C+ DCine:C+ DCine HD
+DCine Español:DCine Español
+TCM:TCM HD
+Hollywood:Hollywood HD
+Sundance:Sundance HD
+Paramount Channel:Paramount C.
+13 TV:13 TV
+Ten:Ten
+C+ Liga:C+LigaHD
+C+ Partidazo:C+ Partidazo HD
+C+ Liga 2:C+ Liga 2 HD
+C+ Fútbol:C+ Fútbol HD
+Bein Sports:beIN SPORTS HD
+Bein Max1:beIN MAX 1 HD
+C+ Liga 2 Multi:
+Real Madrid TV:Real Madrid TV HD
+Barça TV:
+C+ Deportes:C+ Deportes HD
+C+ Deportes 2:C+ Deportes 2 HD
+Movistar Fórmula1:MovistarF1 HD
+Movistar Moto GP:Movistar MotoGP HD
+C+ Golf:C+ Golf HD
+Eurosport 1:Eurosport 1 HD
+Eurosport 2:Eurosport 2 HD
+Multideporte 1:Multideporte 1
+Teledeporte:Teledeporte HD
+Canal Fútbol Replay:Futbol Replay
+Caza y Pesca:
+Iberalia TV:Iberalia TV HD
+IberaliaTV (HD):Iberalia TV HD
+C+ Toros:
+Nat Geographic:NAT GEO HD
+Nat Geo Wild:NG Wild HD
+Historia:Historia
+Discovery:DSC HD
+Odisea:ODISEA HD
+A&amp;E:A&E
+Viajar:Viajar HD
+Discovery Max:Discov.Max
+CCTV Español:CCTV E
+Canal Cocina:Cocina
+Canal Decasa:Decasa
+Crimen + Investigación:Crimen + Inv.
+Divinity:Divinity
+Nova:Nova
+Mega:MEGA
+Energy:Energy
+Garage TV:Garage TV
+Baby TV:Baby TV
+Disney Junior:Disney Junior
+Canal Panda:Canal Panda
+NICK JR:Nick Jr
+Nickelodeon:Nickelodeon
+Disney XD:Disney XD
+Disney Channel:Disney HD
+Boing:Boing
+Clan TVE:Clan TVE
+Los40:Los 40
+Sol Música:Sol Música
+VH1:VH1
+MTV ROCKS:
+Mezzo:
+Mezzo Live HD:
+Classica HD:
+Classica:
+Playboy TV:
+24 Horas:Canal 24 H.
+BBC World:BBC World
+CNN Int:CNN Int.
+Fox News:Fox News
+Euronews:Euronews
+Al Jazeera English:Al Jazeera
+FRANCE 24:France 24
+RT Español:Russia T.
+CNBC:CNBC Eur.
+TV5MONDE:TV5 Monde
+Bloomberg:Bloomberg
+Sky News:
+Intereconomía TV:Intereconomía
+RT:
+I24 News:I 24 News
+CNC World:CNC World
+Orbe 21:Canal Orbe 21
+Telefe Internacional:
+Canal de las Estrellas:
+Caracol TV:
+TV RECORD:
+TV Chile:
+TV Colombia:
+AZ Mundo:
+Cubavisión:
+Telesur:
+EWTN:EWTN
+Phoenix CNE:
+Infonews Channel:
+ARIRANG TV:
+NHK World:
+Canal Sur Andalucía:Canal Sur Andalucía
+TV Galicia:Galicia TV Europa
+TV3 Cat:TV3CAT
+ETB Sat:ETB Sat.
+Aragón TV Int:Aragón TV Int
+Canal 33:
+Esport 3:
+3 24:
+Taquilla  1:
+Taquilla  2:
+Taquilla  3:
+Taquilla  4:
+Taquilla  5:
+Taquilla  6:
+Taquilla HD:
+Taquilla 2 HD:
